@@ -85,16 +85,6 @@ Integrating AI models into real-world applications
 
 
 
-🚀 Live Demo
-
-Add your deployed Streamlit URL here:
-
-YOUR_STREAMLIT_APP_URL
 
 
 
-
-
-Kaviya Shree V
-
-Built as part of my learning journey in AI, Machine Learning, NLP, and Generative AI.
